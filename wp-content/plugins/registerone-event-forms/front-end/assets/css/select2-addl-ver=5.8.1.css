@@ -1,0 +1,26 @@
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove{
+    float: right;
+    color: #ff1b1b;
+    cursor: pointer;
+    display: inline-block;
+    text-shadow: 0 1px 0 #fff;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 2px 0 0 3px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: default;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+    padding: 0 5px;
+    font-size: 110%;
+    color: #3c3c3c;
+}

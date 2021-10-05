@@ -1,0 +1,32 @@
+.form-title-header h1,.form-title-header h2,.form-title-header h3,ul#navigation-menu li:hover a span,
+ul#navigation-menu li a.active span,
+ul#documents-menu li a,
+ul#blog-menu li a:hover,
+ul#blog-menu li a.active,
+div.text-field div.text-field-right div.title a:hover,
+div.twit-field div.twit-link a,
+div.comment-meta div.link {
+    color: #3FB2EB !important;
+}
+
+ul#navigation-menu li:hover,
+ul#navigation-menu li.active,
+ul#portfolio-menu li a:hover,
+ul#portfolio-menu li a.current,
+div.position,
+span.progress-count,
+a.archiv,
+div.text-field div.text-field-left,
+div.image-field div.image a,
+div.image-field div.image span,
+div.blog-image div.blog-postdate,
+div.social-like,
+form#contact div#send input,
+form#comment div#comment-send input,
+div.some-link {
+    background-color: #3FB2EB !important;
+}
+
+div.text-field.blog div.text-field-right {
+    border-left: 3px solid #3FB2EB;
+}
