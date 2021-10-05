@@ -92,18 +92,18 @@ ul#navigation-menu li a span {
     -moz-transition: background-color 0.5s ease; /* Mozilla ???? */
 }
 /*
-ul#navigation-menu li a.profile span { width: 47px; background: url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/profile.png") 12px -59px no-repeat;}
-ul#navigation-menu li:hover a.profile span, ul#navigation-menu li a.profile.active span { background: white url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/profile.png") 12px 0 no-repeat;}
-ul#navigation-menu li a.cv span { width: 19px; padding: 0 30px 0 85px; background: url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/cv.png") 22px -59px no-repeat;}
-ul#navigation-menu li:hover a.cv span, ul#navigation-menu li a.cv.active span { background: white url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/cv.png") 22px 0 no-repeat;}
-ul#navigation-menu li a.documents span { width: 79px; padding: 0 30px 0 60px; background: url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/doc.png") 10px -60px no-repeat;}
-ul#navigation-menu li:hover a.documents span, ul#navigation-menu li a.documents.active span { background: white url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/doc.png") 10px 0 no-repeat;}
-ul#navigation-menu li a.portfolio span { width: 61px; background: url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/portfolio.png") 12px -60px no-repeat;}
-ul#navigation-menu li:hover a.portfolio span, ul#navigation-menu li a.portfolio.active span { background: white url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/portfolio.png") 12px 0 no-repeat;}
-ul#navigation-menu li a.blog span { width: 31px; background: url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/blog.png") 10px -59px no-repeat;}
-ul#navigation-menu li:hover a.blog span, ul#navigation-menu li a.blog.active span { background: white url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/blog.png") 10px 0 no-repeat;}
-ul#navigation-menu li a.contacts span { width: 61px; background: url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/contact.png") 10px -60px no-repeat;}
-ul#navigation-menu li:hover a.contacts span, ul#navigation-menu li a.contacts.active span { background: white url("https://secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/contact.png") 10px 0 no-repeat;}
+ul#navigation-menu li a.profile span { width: 47px; background: url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/profile.png") 12px -59px no-repeat;}
+ul#navigation-menu li:hover a.profile span, ul#navigation-menu li a.profile.active span { background: white url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/profile.png") 12px 0 no-repeat;}
+ul#navigation-menu li a.cv span { width: 19px; padding: 0 30px 0 85px; background: url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/cv.png") 22px -59px no-repeat;}
+ul#navigation-menu li:hover a.cv span, ul#navigation-menu li a.cv.active span { background: white url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/cv.png") 22px 0 no-repeat;}
+ul#navigation-menu li a.documents span { width: 79px; padding: 0 30px 0 60px; background: url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/doc.png") 10px -60px no-repeat;}
+ul#navigation-menu li:hover a.documents span, ul#navigation-menu li a.documents.active span { background: white url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/doc.png") 10px 0 no-repeat;}
+ul#navigation-menu li a.portfolio span { width: 61px; background: url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/portfolio.png") 12px -60px no-repeat;}
+ul#navigation-menu li:hover a.portfolio span, ul#navigation-menu li a.portfolio.active span { background: white url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/portfolio.png") 12px 0 no-repeat;}
+ul#navigation-menu li a.blog span { width: 31px; background: url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/blog.png") 10px -59px no-repeat;}
+ul#navigation-menu li:hover a.blog span, ul#navigation-menu li a.blog.active span { background: white url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/blog.png") 10px 0 no-repeat;}
+ul#navigation-menu li a.contacts span { width: 61px; background: url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/contact.png") 10px -60px no-repeat;}
+ul#navigation-menu li:hover a.contacts span, ul#navigation-menu li a.contacts.active span { background: white url("https://www.secondsundayonmain.org/wp-content/plugins/registerone-event-forms/front-end/assets/img/nav-icons/contact.png") 10px 0 no-repeat;}
 */
 
 ul#navigation-menu li:hover a span,
